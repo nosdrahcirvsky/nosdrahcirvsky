@@ -1,8 +1,10 @@
 ### public void aboutMe() {
 
-- 🔭 I’m currently working on university stuff
-- 🌱 I’m currently learning some frameworks like React and Laravel
-- 👯 I’m looking to collaborate on open source projects
-- 😄 Pronouns: he/him
+- 🔭 Atualmente focando em coisas da faculdade e alguns projetos paralelos
+- 🎮 Entusiasta de 3D e gamedev
+- ☕ Dev Java intermediário
+- 🐧 Linux user
+- 🌱 Aprendendo algumas frameworks como React e Laravel
+- he/him
 
 ### }
