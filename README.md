@@ -8,3 +8,5 @@
 - he/him
 
 ### }
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosdrahcirvsky&count_private=true&theme=github_dark)](https://github.com/nosdrahcirvsky/github-readme-stats)
