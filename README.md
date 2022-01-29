@@ -4,7 +4,7 @@
 - 🎮 Entusiasta de 3D e gamedev
 - ☕ Dev Java intermediário
 - 🐧 Linux user
-- 🌱 Aprendendo algumas frameworks como Node.js e React
+- 🌱 Aprendendo algumas tecnologias como Node.js e React
 - he/him
 
 ### }
