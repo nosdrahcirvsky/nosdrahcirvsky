@@ -1,12 +1,19 @@
-### public void aboutMe() {
+```json
+{
+    "me": {
+        "status": "Currently focusing on some personal projects and university stuff",
+        "interests": "infosec, 3D and gamedev",
+        "work_OS": "Linux",
+        "learning": "Node.js and React",
+        "pronouns": "he/him"
+    },
+    
+    "skills": {
+        "languages": "Java, PHP, JS",
+        "frontend": "Bootstrap, JQuery, CSS",
+        "backend": "JSF, Node",
+        "Linux": "Bash scripting, servers"
+    }
+}
 
-- 🔭 Atualmente focando em coisas da faculdade e alguns projetos paralelos
-- 🎮 Entusiasta de 3D e gamedev
-- ☕ Dev Java intermediário
-- 🐧 Linux user
-- 🌱 Aprendendo algumas tecnologias como Node.js e React
-- he/him
-
-### }
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosdrahcirvsky&count_private=true&theme=github_dark)](https://github.com/nosdrahcirvsky/github-readme-stats)
+```
