@@ -11,7 +11,7 @@
     "skills": {
         "languages": "Java, PHP, JS",
         "frontend": "Bootstrap, JQuery, CSS",
-        "backend": "JSF, Node",
+        "backend": "PHP, Java, Node",
         "Linux": "Bash scripting, servers"
     }
 }
