@@ -12,6 +12,7 @@
         "languages": "Java, PHP, JS",
         "frontend": "Bootstrap, JQuery, CSS",
         "backend": "PHP, Java, Node",
+        "databases": "MySQL",
         "Linux": "Bash scripting, servers"
     }
 }
