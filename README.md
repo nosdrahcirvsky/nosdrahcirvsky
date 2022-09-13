@@ -13,7 +13,7 @@
         "frontend": ["Bootstrap", "JQuery", "CSS"],
         "backend": ["SQL", "HQL", "QueryBuilder", "PHP", "Java", "Node", "Golang", "TypeScript"],
         "ORMs": ["Sequelize", "Hibernate", "TypeORM"],
-        "Frameworks": ["Express", "Laravel", "NestJS", "React", "NestJS"],
+        "Frameworks": ["Express", "Laravel", "NestJS", "React"],
         "databases": ["MySQL", "PostgreSQL"],
         "Linux": ["Bash scripting", "Docker"]
     }
