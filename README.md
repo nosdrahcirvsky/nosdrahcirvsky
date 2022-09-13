@@ -11,9 +11,9 @@
     "skills": {
         "languages": ["Java", "PHP", "JS", "Go"],
         "frontend": ["Bootstrap", "JQuery", "CSS"],
-        "backend": ["PHP", "Java", "Node", "Golang"],
-        "ORMs": ["Sequelize", "Hibernate"],
-        "Frameworks": ["Express", "Laravel", "NestJS", "React"],
+        "backend": ["SQL", "HQL", "QueryBuilder", "PHP", "Java", "Node", "Golang", "TypeScript"],
+        "ORMs": ["Sequelize", "Hibernate", "TypeORM"],
+        "Frameworks": ["Express", "Laravel", "NestJS", "React", "NestJS"],
         "databases": ["MySQL", "PostgreSQL"],
         "Linux": ["Bash scripting", "Docker"]
     }
