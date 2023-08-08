@@ -5,7 +5,7 @@
         "interests": ["infosec", "3D", "gamedev"],
         "main_os": "Linux",
         "secondary_os": "Windows 11 (basically for gaming and 3D stuff like Blender, Adobe Substance Painter, UE, etc.)"
-        "learning": ["React"],
+        "learning": ["React", "Python"],
         "pronouns": "he/him"
     },
     
